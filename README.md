@@ -40,9 +40,52 @@ Most performance plugins only show you basic metrics. **WBSkill Performance Moni
 
 ## 🖼️ Screenshots
 
-| Dashboard | Database Cleanup | Plugin Analysis |
-|-----------|-----------------|-----------------|
-| Main dashboard with performance score | One-click database optimization | Identify slow plugins |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>📊 Dashboard</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr1.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr1.jpg" width="400">
+        </a>
+      </td>
+      <td align="center">
+        <strong>🗄️ Database Cleanup</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr2.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr2.jpg" width="400">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>🔌 Plugin Analysis</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr3.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr3.jpg" width="400">
+        </a>
+      </td>
+      <td align="center">
+        <strong>🔗 Hooks Analysis</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr4.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr4.jpg" width="400">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>⏰ Cron Jobs</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr5.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr5.jpg" width="400">
+        </a>
+      </td>
+      <td align="center">
+        <strong>⚙️ Settings</strong><br>
+        <a href="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr6.jpg">
+          <img src="https://raw.githubusercontent.com/danlarov/wbskill-performance-monitor/main/wp-performance-monitor/assets/en_screenshots/scr6.jpg" width="400">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
