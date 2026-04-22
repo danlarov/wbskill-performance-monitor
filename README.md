@@ -225,6 +225,16 @@ This plugin is licensed under the **GPLv2 or later** license.
 
 ---
 
+## 💝 Donate
+
+Support the development of WBSkill Performance Monitor:
+
+[![](https://img.shields.io/badge/Donate-YooMoney-00b4ff?style=for-the-badge)](https://yoomoney.ru/fundraise/1GV365N919A.260405)
+
+Every donation helps keep this plugin free and actively maintained. Thank you! 🙏
+
+---
+
 ## 🙏 Acknowledgments
 
 Thanks to the WordPress community for their continuous support and inspiration.
