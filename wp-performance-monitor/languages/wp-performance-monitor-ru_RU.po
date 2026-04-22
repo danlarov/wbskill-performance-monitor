@@ -1,0 +1,912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Performance Monitor 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-04-22 13:33+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "Performance Monitor"
+msgstr "Performance Monitor"
+
+msgid "Performance Monitor Dashboard"
+msgstr "Панель управления мониторинга производительности"
+
+msgid "Performance Score"
+msgstr "Оценка производительности"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Excellent"
+msgstr "Отлично"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Needs Improvement"
+msgstr "Требует улучшения"
+
+msgid "Last Scan"
+msgstr "Последнее сканирование"
+
+msgid "No scans yet"
+msgstr "Сканирований пока нет"
+
+msgid "Start First Scan"
+msgstr "Начать первое сканирование"
+
+msgid "Quick Stats"
+msgstr "Быстрая статистика"
+
+msgid "Active Plugins"
+msgstr "Активных плагинов"
+
+msgid "Published Posts"
+msgstr "Опубликованных записей"
+
+msgid "Optimization Recommendations"
+msgstr "Рекомендации по оптимизации"
+
+msgid "Start Scan"
+msgstr "Начать сканирование"
+
+msgid "Scanner"
+msgstr "Сканер"
+
+msgid "Plugins"
+msgstr "Плагины"
+
+msgid "Database"
+msgstr "База данных"
+
+msgid "Reports"
+msgstr "Отчеты"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Inactive"
+msgstr "Неактивен"
+
+msgid "Settings saved successfully!"
+msgstr "Настройки успешно сохранены!"
+
+# Scanner Page
+msgid "Performance Scanner"
+msgstr "Сканер производительности"
+
+msgid "Deep scan your WordPress site to identify performance bottlenecks"
+msgstr "Глубокое сканирование вашего WordPress сайта для выявления узких мест"
+
+msgid "Start New Scan"
+msgstr "Начать новое сканирование"
+
+msgid "Full Scan (Recommended)"
+msgstr "Полное сканирование (Рекомендуется)"
+
+msgid "Quick Scan"
+msgstr "Быстрое сканирование"
+
+msgid "Plugins Only"
+msgstr "Только плагины"
+
+msgid "Database Only"
+msgstr "Только база данных"
+
+msgid "Assets Only"
+msgstr "Только ассеты"
+
+msgid "Last Scan Results"
+msgstr "Результаты последнего сканирования"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Plugins Analyzed:"
+msgstr "Проанализировано плагинов:"
+
+msgid "Issues Found:"
+msgstr "Найдено проблем:"
+
+msgid "View Full Report"
+msgstr "Посмотреть полный отчет"
+
+msgid "No scans have been performed yet. Click \"Start Scan\" to begin."
+msgstr "Сканирование еще не выполнялось. Нажмите \"Начать сканирование\"."
+
+msgid "Plugin Name"
+msgstr "Название плагина"
+
+msgid "Issues"
+msgstr "Проблемы"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "No issues"
+msgstr "Нет проблем"
+
+msgid "Run a scan to see plugin analysis."
+msgstr "Запустите сканирование для анализа плагинов."
+
+msgid "Run a scan to see database analysis."
+msgstr "Запустите сканирование для анализа базы данных."
+
+msgid "Run a scan to see asset analysis."
+msgstr "Запустите сканирование для анализа ассетов."
+
+msgid "Total Size"
+msgstr "Общий размер"
+
+msgid "Revisions"
+msgstr "Ревизии"
+
+msgid "Transients"
+msgstr "Транзиенты"
+
+msgid "Optimize Database"
+msgstr "Оптимизировать базу данных"
+
+msgid "Clean Revisions"
+msgstr "Очистить ревизии"
+
+msgid "Clean Transients"
+msgstr "Очистить транзиенты"
+
+msgid "Total Hooks"
+msgstr "Всего хуков"
+
+msgid "Heavy Hooks"
+msgstr "Тяжелые хуки"
+
+msgid "Hook Name"
+msgstr "Название хука"
+
+msgid "Callbacks"
+msgstr "Колбэки"
+
+# Database Page
+msgid "Database Optimization"
+msgstr "Оптимизация базы данных"
+
+msgid "Clean and optimize your WordPress database for better performance"
+msgstr "Очистите и оптимизируйте базу данных WordPress для лучшей производительности"
+
+msgid "Database Size"
+msgstr "Размер базы данных"
+
+msgid "Cleanable Data"
+msgstr "Очищаемые данные"
+
+msgid "Items that can be cleaned"
+msgstr "Элементы, которые можно очистить"
+
+msgid "Autoload Data"
+msgstr "Автозагружаемые данные"
+
+msgid "options"
+msgstr "опций"
+
+msgid "Database Cleanup"
+msgstr "Очистка базы данных"
+
+msgid "WordPress saves every change to your posts as revisions"
+msgstr "WordPress сохраняет каждое изменение ваших записей как ревизии"
+
+msgid "revisions found"
+msgstr "ревизий найдено"
+
+msgid "Automatically saved drafts that were never published"
+msgstr "Автоматически сохраненные черновики, которые никогда не были опубликованы"
+
+msgid "drafts found"
+msgstr "черновиков найдено"
+
+msgid "Clean Drafts"
+msgstr "Очистить черновики"
+
+msgid "Posts and comments in trash that can be permanently deleted"
+msgstr "Записи и комментарии в корзине, которые можно удалить навсегда"
+
+msgid "items in trash"
+msgstr "элементов в корзине"
+
+msgid "Empty Trash"
+msgstr "Очистить корзину"
+
+msgid "Temporary data that has expired and is no longer needed"
+msgstr "Временные данные, которые устарели и больше не нужны"
+
+msgid "expired transients"
+msgstr "просроченных транзиентов"
+
+msgid "Meta data that belongs to deleted posts, comments, or users"
+msgstr "Мета-данные, принадлежащие удаленным записям, комментариям или пользователям"
+
+msgid "orphaned records"
+msgstr "сиротливых записей"
+
+msgid "Clean Orphaned Meta"
+msgstr "Очистить сиротливые мета-данные"
+
+msgid "Autoloaded Options"
+msgstr "Автозагружаемые опции"
+
+msgid "These options are loaded on every page request. Large autoloaded options can slow down your site."
+msgstr "Эти опции загружаются при каждом запросе страницы. Большие автозагружаемые опции могут замедлить ваш сайт."
+
+msgid "Total Autoload Size:"
+msgstr "Общий размер автозагрузки:"
+
+msgid "Autoload data is too large! Consider moving some options to not autoload."
+msgstr "Данные автозагрузки слишком велики! Рассмотрите возможность отключения автозагрузки для некоторых опций."
+
+msgid "Option Name"
+msgstr "Название опции"
+
+msgid "Size (KB)"
+msgstr "Размер (КБ)"
+
+msgid "Disable Autoload"
+msgstr "Отключить автозагрузку"
+
+# Reports Page
+msgid "Performance Reports"
+msgstr "Отчеты производительности"
+
+msgid "View and export detailed performance reports"
+msgstr "Просмотр и экспорт детальных отчетов"
+
+msgid "Export Report"
+msgstr "Экспорт отчета"
+
+msgid "Email Report"
+msgstr "Email отчет"
+
+msgid "Email address"
+msgstr "Email адрес"
+
+msgid "Daily"
+msgstr "Ежедневно"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+msgid "Report Details"
+msgstr "Детали отчета"
+
+# Tools Page
+msgid "Performance Tools"
+msgstr "Инструменты производительности"
+
+msgid "Advanced tools to optimize and maintain your WordPress site"
+msgstr "Расширенные инструменты для оптимизации и обслуживания WordPress"
+
+msgid "WordPress Heartbeat Control"
+msgstr "Управление Heartbeat"
+
+msgid "The WordPress Heartbeat API can cause high CPU usage. Control how often it runs."
+msgstr "WordPress Heartbeat API может вызывать высокую нагрузку на CPU. Управляйте частотой его выполнения."
+
+msgid "Default (60 seconds)"
+msgstr "По умолчанию (60 секунд)"
+
+msgid "Every 2 minutes"
+msgstr "Каждые 2 минуты"
+
+msgid "Every 3 minutes"
+msgstr "Каждые 3 минуты"
+
+msgid "Every 5 minutes"
+msgstr "Каждые 5 минут"
+
+msgid "Disable completely"
+msgstr "Полностью отключить"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Post Revisions Limit"
+msgstr "Лимит ревизий"
+
+msgid "Limit the number of revisions saved per post to reduce database bloat."
+msgstr "Ограничьте количество сохраняемых ревизий на запись для уменьшения размера базы данных."
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Performance Test"
+msgstr "Тест производительности"
+
+msgid "Test your site's load time from different perspectives."
+msgstr "Проверьте время загрузки вашего сайта с разных точек зрения."
+
+msgid "Enter URL to test"
+msgstr "Введите URL для тестирования"
+
+msgid "Run Test"
+msgstr "Запустить тест"
+
+msgid "Load Time"
+msgstr "Время загрузки"
+
+msgid "Page Size"
+msgstr "Размер страницы"
+
+msgid "System Information"
+msgstr "Системная информация"
+
+msgid "Copy System Info"
+msgstr "Копировать системную информацию"
+
+msgid "Cache Management"
+msgstr "Управление кэшем"
+
+msgid "Clear various caches to resolve issues or see changes immediately."
+msgstr "Очистите различные кэши для решения проблем или немедленного применения изменений."
+
+msgid "Clear WP Cache"
+msgstr "Очистить кэш WP"
+
+msgid "Clear OPcache"
+msgstr "Очистить OPcache"
+
+# Settings Page
+msgid "Plugin Settings"
+msgstr "Настройки плагина"
+
+msgid "Configure WP Performance Monitor to suit your needs"
+msgstr "Настройте WP Performance Monitor под свои нужды"
+
+msgid "General Settings"
+msgstr "Общие настройки"
+
+msgid "Enable Automatic Scans"
+msgstr "Включить автоматическое сканирование"
+
+msgid "Automatically scan your site on a schedule."
+msgstr "Автоматически сканировать ваш сайт по расписанию."
+
+msgid "Scan Frequency"
+msgstr "Частота сканирования"
+
+msgid "Send Email Reports"
+msgstr "Отправлять email отчеты"
+
+msgid "Receive performance reports via email."
+msgstr "Получать отчеты о производительности по email."
+
+msgid "Admin Email"
+msgstr "Email администратора"
+
+msgid "Scan Settings"
+msgstr "Настройки сканирования"
+
+msgid "Scan Plugins"
+msgstr "Сканировать плагины"
+
+msgid "Scan Theme"
+msgstr "Сканировать тему"
+
+msgid "Scan Database"
+msgstr "Сканировать базу данных"
+
+msgid "Performance Threshold (seconds)"
+msgstr "Порог производительности (секунды)"
+
+msgid "Plugins taking longer than this will be marked as slow."
+msgstr "Плагины, загружающиеся дольше этого времени, будут отмечены как медленные."
+
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+msgid "Show Dashboard Widget"
+msgstr "Показывать виджет на дашборде"
+
+msgid "Display performance summary on WordPress dashboard."
+msgstr "Отображать сводку производительности на дашборде WordPress."
+
+msgid "Show Admin Bar Menu"
+msgstr "Показывать меню в админ-панели"
+
+msgid "Quick access to performance tools from admin bar."
+msgstr "Быстрый доступ к инструментам производительности из админ-панели."
+
+msgid "Logging Settings"
+msgstr "Настройки логирования"
+
+msgid "Enable Logging"
+msgstr "Включить логирование"
+
+msgid "Store performance logs for debugging."
+msgstr "Сохранять логи производительности для отладки."
+
+msgid "Keep Logs (days)"
+msgstr "Хранить логи (дней)"
+
+msgid "Support Development"
+msgstr "Поддержать разработку"
+
+msgid "If this plugin helps you, consider supporting future development:"
+msgstr "Если этот плагин помогает вам, рассмотрите возможность поддержки дальнейшей разработки:"
+
+msgid "Donate via PayPal"
+msgstr "Пожертвовать через PayPal"
+
+msgid "Buy Me a Coffee"
+msgstr "Купить мне кофе"
+
+msgid "Contact:"
+msgstr "Контакты:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Website:"
+msgstr "Сайт:"
+
+msgid "GitHub:"
+msgstr "GitHub:"
+
+msgid "Save All Settings"
+msgstr "Сохранить все настройки"
+
+# Common strings
+msgid "Loading performance data..."
+msgstr "Загрузка данных производительности..."
+
+msgid "Scan started successfully!"
+msgstr "Сканирование успешно начато!"
+
+msgid "Scan completed!"
+msgstr "Сканирование завершено!"
+
+msgid "An error occurred"
+msgstr "Произошла ошибка"
+
+msgid "Are you sure you want to disable this plugin?"
+msgstr "Вы уверены, что хотите отключить этот плагин?"
+
+msgid "Too many JavaScript files"
+msgstr "Слишком много JavaScript файлов"
+
+msgid "Combine and minify JS files"
+msgstr "Объедините и минифицируйте JS файлы"
+
+msgid "Too many CSS files"
+msgstr "Слишком много CSS файлов"
+
+msgid "Combine CSS files"
+msgstr "Объедините CSS файлы"
+
+msgid "Excessive database queries"
+msgstr "Избыточные запросы к базе данных"
+
+msgid "Consider caching database results"
+msgstr "Рассмотрите кэширование результатов запросов"
+
+msgid "Too many external HTTP requests"
+msgstr "Слишком много внешних HTTP запросов"
+
+msgid "Cache external API responses"
+msgstr "Кэшируйте ответы внешних API"
+
+# Export messages
+msgid "ID"
+msgstr "ID"
+
+msgid "Generated"
+msgstr "Сгенерирован"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Security check failed"
+msgstr "Ошибка проверки безопасности"
+
+msgid "You do not have permission"
+msgstr "У вас нет разрешения"
+
+msgid "Report not found"
+msgstr "Отчет не найден"
+
+msgid "Email report scheduled"
+msgstr "Email отчет запланирован"
+
+msgid "OPcache cleared!"
+msgstr "OPcache очищен!"
+
+msgid "OPcache is not available."
+msgstr "OPcache недоступен."
+
+msgid "%d revisions deleted"
+msgstr "Удалено %d ревизий"
+
+msgid "%d transients deleted"
+msgstr "Удалено %d транзиентов"
+
+msgid "%d items deleted from trash"
+msgstr "Удалено %d элементов из корзины"
+
+msgid "%d auto drafts deleted"
+msgstr "Удалено %d авто-черновиков"
+
+msgid "%d orphaned meta records deleted"
+msgstr "Удалено %d сиротливых мета-записей"
+
+msgid "%d tables optimized"
+msgstr "Оптимизировано %d таблиц"
+
+msgid "%d items cleaned"
+msgstr "Очищено %d элементов"
+
+msgid "Autoload disabled for %s"
+msgstr "Автозагрузка отключена для %s"
+
+msgid "Plugin disabled successfully"
+msgstr "Плагин успешно отключен"
+
+msgid "Plugin not active"
+msgstr "Плагин не активен"
+
+msgid "Scan completed successfully"
+msgstr "Сканирование успешно завершено"
+
+# Hooks Tab
+msgid "Loading hook analysis..."
+msgstr "Загрузка анализа хуков..."
+
+msgid "Hook analysis will appear here."
+msgstr "Анализ хуков появится здесь."
+
+msgid "Could not load hook analysis."
+msgstr "Не удалось загрузить анализ хуков."
+
+# Cron Jobs Tab
+msgid "Loading cron jobs..."
+msgstr "Загрузка заданий cron..."
+
+msgid "No cron jobs found."
+msgstr "Заданий cron не найдено."
+
+msgid "Could not load cron jobs."
+msgstr "Не удалось загрузить задания cron."
+
+# Plugins Page
+msgid "Plugins Performance Analysis"
+msgstr "Анализ производительности плагинов"
+
+msgid "Detailed analysis of each plugin's impact on your site performance"
+msgstr "Детальный анализ влияния каждого плагина на производительность сайта"
+
+msgid "Total Plugins"
+msgstr "Всего плагинов"
+
+msgid "Installed"
+msgstr "Установлено"
+
+msgid "Currently Active"
+msgstr "Активно сейчас"
+
+msgid "Performance Impact"
+msgstr "Влияние на производительность"
+
+msgid "Total Plugin Load Time"
+msgstr "Общее время загрузки плагинов"
+
+msgid "Plugin Performance Details"
+msgstr "Детали производительности плагинов"
+
+msgid "Search plugins..."
+msgstr "Поиск плагинов..."
+
+msgid "All Plugins"
+msgstr "Все плагины"
+
+msgid "Active Only"
+msgstr "Только активные"
+
+msgid "Inactive Only"
+msgstr "Только неактивные"
+
+msgid "Plugin"
+msgstr "Плагин"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Queries"
+msgstr "Запросы"
+
+msgid "Details"
+msgstr "Подробнее"
+
+# Dashboard Widget
+msgid "Performance Monitor Summary"
+msgstr "Сводка мониторинга производительности"
+
+# AJAX Actions
+msgid "Cleaning..."
+msgstr "Очистка..."
+
+msgid "Optimizing..."
+msgstr "Оптимизация..."
+
+msgid "Cleaning all..."
+msgstr "Очистка всего..."
+
+msgid "Error cleaning revisions"
+msgstr "Ошибка при очистке ревизий"
+
+msgid "Error cleaning drafts"
+msgstr "Ошибка при очистке черновиков"
+
+msgid "Error cleaning trash"
+msgstr "Ошибка при очистке корзины"
+
+msgid "Error cleaning transients"
+msgstr "Ошибка при очистке транзиентов"
+
+msgid "Error cleaning orphaned meta"
+msgstr "Ошибка при очистке сиротливых мета-данных"
+
+msgid "Error optimizing database"
+msgstr "Ошибка при оптимизации базы данных"
+
+msgid "Error cleaning database"
+msgstr "Ошибка при очистке базы данных"
+
+msgid "Database optimized!"
+msgstr "База данных оптимизирована!"
+
+msgid "Revisions cleaned!"
+msgstr "Ревизии очищены!"
+
+msgid "Transients cleaned!"
+msgstr "Транзиенты очищены!"
+
+msgid "Delete all post revisions?"
+msgstr "Удалить все ревизии записей?"
+
+msgid "Delete all auto drafts?"
+msgstr "Удалить все авто-черновики?"
+
+msgid "Empty trash?"
+msgstr "Очистить корзину?"
+
+msgid "Delete all transients?"
+msgstr "Удалить все транзиенты?"
+
+msgid "Delete orphaned meta data?"
+msgstr "Удалить сиротливые мета-данные?"
+
+msgid "Optimize database tables?"
+msgstr "Оптимизировать таблицы базы данных?"
+
+msgid "Clean ALL database trash? This cannot be undone."
+msgstr "Очистить ВЕСЬ мусор базы данных? Это действие нельзя отменить."
+
+# Dashboard
+msgid "Comprehensive performance monitoring and optimization for your WordPress site"
+msgstr "Комплексный мониторинг производительности и оптимизация вашего WordPress сайта"
+
+msgid "Great job! No critical issues found."
+msgstr "Отличная работа! Критических проблем не найдено."
+
+msgid "Recent Scans"
+msgstr "Недавние сканирования"
+
+# Scanner Page - Last Scan Results
+msgid "Total plugins: %d | Slow plugins: %d"
+msgstr "Всего плагинов: %d | Медленных плагинов: %d"
+
+# Reports Page
+msgid "Scan History"
+msgstr "История сканирований"
+
+msgid "Search reports..."
+msgstr "Поиск отчетов..."
+
+msgid "All Reports"
+msgstr "Все отчеты"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Problems"
+msgstr "Проблемы"
+
+msgid "Score"
+msgstr "Оценка"
+
+msgid "View"
+msgstr "Просмотр"
+
+msgid "Delete"
+msgstr "Удалить"
+
+# Time units
+msgid "hours"
+msgstr "часов"
+
+msgid "hour"
+msgstr "час"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "minute"
+msgstr "минута"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "second"
+msgstr "секунда"
+
+# Database Page - Additional translations
+msgid "Post Revisions"
+msgstr "Ревизии записей"
+
+msgid "Auto Drafts"
+msgstr "Авто-черновики"
+
+msgid "Trashed Items"
+msgstr "Удаленные элементы"
+
+msgid "Expired Transients"
+msgstr "Просроченные транзиенты"
+
+msgid "Orphaned Meta Data"
+msgstr "Сиротливые мета-данные"
+
+msgid "Optimize Tables"
+msgstr "Оптимизация таблиц"
+
+msgid "Optimize database tables for better performance"
+msgstr "Оптимизация таблиц базы данных для лучшей производительности"
+
+msgid "tables"
+msgstr "таблиц"
+
+msgid "transients found"
+msgstr "транзиентов найдено"
+
+msgid "tables optimized"
+msgstr "таблиц оптимизировано"
+
+msgid "Clean Trash"
+msgstr "Очистить корзину"
+
+msgid "Clean All"
+msgstr "Очистить все"
+
+msgid "Optimize All Tables"
+msgstr "Оптимизировать все таблицы"
+
+msgid "Cleanable Items"
+msgstr "Очищаемые элементы"
+
+msgid "Total Tables"
+msgstr "Всего таблиц"
+
+msgid "Clear Transients"
+msgstr "Очистить транзиенты"
+
+msgid "Please enter a valid number (0 = unlimited)"
+msgstr "Пожалуйста, введите корректное число (0 = без ограничений)"
+
+msgid "Invalid limit value"
+msgstr "Неверное значение лимита"
+
+msgid "Revisions limit set to %d"
+msgstr "Лимит ревизий установлен на %d"
+
+msgid "Heartbeat settings saved"
+msgstr "Настройки Heartbeat сохранены"
+
+# Scanner Page - Tabs
+msgid "Assets"
+msgstr "Ассеты"
+
+msgid "Hooks"
+msgstr "Хуки"
+
+msgid "Cron Jobs"
+msgstr "Задания Cron"
+
+# Cron Jobs Table
+msgid "Next Run"
+msgstr "Следующий запуск"
+
+msgid "Schedule"
+msgstr "Расписание"
+
+# Hooks Analysis
+msgid "Heavy Hooks (>5 callbacks)"
+msgstr "Тяжелые хуки (>5 колбэков)"
+
+# Admin menu
+msgid "Performance"
+msgstr "Оптимизатор"
+
+msgid "Quick Actions"
+msgstr "Быстрые действия"
+
+msgid "Full Scan"
+msgstr "Полное сканирование"
+
+msgid "Clean Database"
+msgstr "Очистить базу данных"
+
+msgid "System Info"
+msgstr "Системная информация"
+
+msgid "View all"
+msgstr "Смотреть все"
+
+msgid "Performance Tip"
+msgstr "Совет по производительности"
+
+msgid "Support the project"
+msgstr "Поддержать проект"
+
+msgid "If you find this plugin useful, please consider supporting further development:"
+msgstr "Если этот плагин полезен для вас, пожалуйста, поддержите дальнейшую разработку:"
+
+msgid "Donate via YooMoney"
+msgstr "Пожертвовать через ЮMoney"
+
+msgid "Disable unused plugins to reduce server load."
+msgstr "Отключайте неиспользуемые плагины для снижения нагрузки на сервер."
+
+msgid "Use a caching plugin to improve page load speed."
+msgstr "Используйте плагин кэширования для ускорения загрузки страниц."
+
+msgid "Optimize images before uploading to your site."
+msgstr "Оптимизируйте изображения перед загрузкой на сайт."
+
+msgid "Keep WordPress, themes, and plugins updated for security and performance."
+msgstr "Обновляйте WordPress, темы и плагины для безопасности и производительности."
+
+msgid "Use a CDN to serve static files faster."
+msgstr "Используйте CDN для более быстрой доставки статических файлов."
+
+msgid "Limit post revisions to keep database size under control."
+msgstr "Ограничьте количество ревизий записей, чтобы контролировать размер базы данных."
+
+msgid "Clean your database regularly from expired transients."
+msgstr "Регулярно очищайте базу данных от устаревших транзиентов."
+
+msgid "Clean DB"
+msgstr "Очистить БД"
